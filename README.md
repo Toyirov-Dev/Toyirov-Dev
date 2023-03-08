@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Toyirov-Dev
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming and game modding
 - 🌱 I’m currently learning Game-Dev
 - 💞️ I’m looking to collaborate on Game Designer
 - 📫 How to reach me T.me/Desperados_coder

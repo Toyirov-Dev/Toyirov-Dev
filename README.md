@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Toyirov-Dev
-- 👀 I’m interested in Programming and game modding
-- 🌱 I’m currently learning Game-Dev
-- 💞️ I’m looking to collaborate on Game Designer
-- 📫 How to reach me T.me/Desperados_coder
+# Hi there, I'm Toyirov-Dev 👋
 
-<!---
-Toyirov-Dev/Toyirov-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Python programmer who is currently learning MySQL. I also have some experience with C++ and I'm very interested in game development 3d modelling.
+
+## Popular Projects
+
+- [Text Bomber] (https://github.com/Toyirov-Dev/text-bomber): This program send text, like sms bomber.
+- [Image convertor] (https://github.com/Toyirov-Dev/Image-converter): convert image 2 image.
+- [Tiny-craft] (https://github.com/Toyirov-Dev/TINY-craft): Just clone of Minecraft game.
+
+## Skills
+
+- Python 
+- MySQL
+- C++
+- Game development
+- 3d modelling
+
+## Contact me
+
+- [Telegram] (https://twitter.com/Toyirov_Dev)
+- [Email] (mr.peterson404@gmail.com)

@@ -18,5 +18,5 @@ I'm a Python programmer who is currently learning MySQL. I also have some experi
 
 ## Contact me
 
-- [Telegram] (https://twitter.com/Toyirov_Dev)
+- [Twitter] (https://twitter.com/Toyirov_Dev)
 - [Email] (mr.peterson404@gmail.com)

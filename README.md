@@ -12,8 +12,9 @@ I'm a Python programmer who is currently learning MySQL. I also have some experi
 
 - Python 
 - MySQL
+- PHP
 - C++
-- Game development
+- 2D Game development
 - 3d modelling
 
 ## Contact me
